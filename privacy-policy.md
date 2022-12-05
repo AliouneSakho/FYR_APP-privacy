@@ -19,8 +19,13 @@ This Services does not uses these “cookies” explicitly. However, the app may
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. FYR collects location data to enable the rental or sale establishment search functionality even when the application is closed or not in use. We only use this information within the scope necessary for the designated service.  
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Information Collected while Using the Application  
+While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+
+* Pictures and other information from your Device's camera and photo library
+We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+
+You can enable or disable access to this information at any time, through Your Device settings.  
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
