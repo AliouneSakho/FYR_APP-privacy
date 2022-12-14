@@ -50,7 +50,7 @@ We may employ third-party companies and individuals due to the following reasons
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
 ### Data deletion
-We may retain personal information as necessary for our legitimate interests, such as detecting and preventing fraud and improving security. For example, if we suspend an FYR account for fraud or security reasons, we may retain certain information related to that FYR account to prevent that member from opening a new FYR account in the future. This is for the moment valid if FYR designates you as admin.
+We may retain personal information as necessary for our legitimate interests, such as detecting and preventing fraud and improving security. For example, if we suspend an FYR account for fraud or security reasons, we may retain certain information related to that FYR account to prevent that member from opening a new FYR account in the future.
 
 Information that you have shared with others (e.g. comments, chats) may continue to be public(or between chat members) on the FYR Platform also after your FYR account is deleted. However, this information will no longer be assigned to you.
 
