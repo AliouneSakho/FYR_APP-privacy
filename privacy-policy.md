@@ -25,7 +25,9 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
 ### Location Information  
-Some of the services may use location information transmitted from your registration's credentials If FYR designates you as an admin . FYR use your address listed in your profile to enable the rental, for visits or sale establishment search functionality even when the application is closed or not in use.
+FYR collects location data to enable suggested residence filtering from your location even when the app is closed or not in use.
+Such as precise or approximate location determined from your IP address or mobile device’s GPS depending on your device settings. We may also collect this information when you’re not using the app if you enable this through your settings or device permissions.
+
  
 
 ### Information Collected while Using the Application  
